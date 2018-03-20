@@ -10,7 +10,7 @@ $MessageBody = "Please check diskpace on target!"
 $MessageTitle = "Cannot perform backup"
 
 
-$SourcePath = "F:\Mine dokumenter\Mine bilder\tegninglol" <#Enter the path to the folder you want to back up#>
+$SourcePath = "C:\folder\keep" <#Enter the path to the folder you want to back up#>
 $DesinationDrive = "E:" <#Change this with the drive letter you want to use as the destination drive#>
 
 
